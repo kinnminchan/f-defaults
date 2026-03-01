@@ -1,0 +1,1 @@
+[LATEST RECOMMENDED] https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/

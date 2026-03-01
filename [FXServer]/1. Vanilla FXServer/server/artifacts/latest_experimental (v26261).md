@@ -1,0 +1,1 @@
+[LATEST EXPERIMENTAL] https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
